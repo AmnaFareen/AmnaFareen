@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Amna, a  first-year software engineering student passionate about web development and creative coding.
 - 👀 I’m interested in front-end development, user experience design, and building interactive web applications.
 - 🌱 I’m currently learning JS, C#, CSS, HTML, SQL, and other foundational web technologies.
-- 📫 How to reach me amnafareen77@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love books and can spend hours reading a good novel.
 
