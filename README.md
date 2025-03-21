@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Amna Fareen 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=3CF0E4&center=true&vCenter=true&multiline=true&width=435&height=55&lines=Cyber+Security+%2B+UI%2FUX+Enthusiast;Full-Stack+Developer;Passionate+about+Web+and+Security" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=3CF0E4&center=true&vCenter=true&multiline=true&width=435&height=55&lines=Cyber+Security+%2B+Full-Stack+Developer;Passionate+about+Web+and+Security" alt="Typing SVG">
 </p>
 
 ---
