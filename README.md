@@ -23,18 +23,6 @@
 ## 💡 **About Me**
 - 🔐 **Cybersecurity Enthusiast** | UI/UX Lover 🎨  
 - 💻 Passionate about **Web Development & Full-Stack Projects**  
-- 📚 Currently learning **advanced security techniques & UI improvements**  
+- 📚 Currently learning **security techniques & UI improvements**  
 - 🎯 Always eager to **build, break, and secure systems!**  
 
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amnaaah&theme=tokyonight&hide_border=true">
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300">
-</p>
