@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Amna Fareen 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=3CF0E4&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Cyber+Security+Enthusiast+%2B+Full-Stack+Developer;Passionate+about+Web+and+Security" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=3CF0E4&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Full-stack+newbie;+Bug+hunter+on+the+loose;+Powered+by+coffee+and+panic" alt="Typing SVG">
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 ## 💡 **About Me**
 - 🔐 **Cybersecurity Enthusiast** | UI/UX Lover 🎨  
-- 💻 Passionate about **Web Development & Full-Stack Projects**  
+- Full-time student, part-time coffee addict ☕
 - 📚 Currently learning **security techniques & UI improvements**  
 - 🎯 Always eager to **build, break, and secure systems!**  
 
