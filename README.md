@@ -1,28 +1,61 @@
-<h1 align="center">Hey there! I'm Amna Fareen 👋</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=3CF0E4&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Full-stack+newbie;+Powered+by+coffee+and+panic" alt="Typing SVG">
-</p>
+#  Amna Fareen
 
----
+### Software Engineering Student • Full-Stack Developer 
 
-## 🚀 **Tech Stack**
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white">
-</p>
+</div>
 
 ---
 
-## 💡 **About Me**
-- 🔐 **Cybersecurity Enthusiast** | UI/UX Lover 🎨  
-- Full-time student, part-time coffee addict ☕
-- 📚 Currently learning **security techniques & UI improvements**  
-- 🎯 Always eager to **build, break, and secure systems!**  
+## 🌟 About Me
 
+I'm a **second-year Software Engineering student** at Coventry University with a passion for building technology that feels simple, meaningful, and genuinely helpful. My current focus spans full-stack development and an emerging interest in **cybersecurity**, with a long-term vision of creating my own tech company.
+
+I believe in creating experiences that resonate not just functional code, but solutions that connect with people. When I start a project, I'm fully immersed until completion. Beyond academics, I **host creative workshops**, combining my communication skills and creativity to connect with others.
+
+Currently expanding my expertise in **Data Structures & Algorithms**, **Machine Learning**, and **Flutter** while working on projects that blend solid backend logic with user-centered design.
+
+---
+
+## 🛠️ Technical Skills
+
+```
+Backend      │  Java • Spring Boot • REST APIs • MySQL/SQL • PHP • C# • C
+Frontend     │  HTML5 • CSS3 • JavaScript • Flutter • UI/UX Design
+Tools        │  Git/GitHub • Postman • IntelliJ IDEA • VS Code • Android Studio • Figma (learning)
+Core Skills  │  OOP • Problem Solving • Debugging • DSA (learning) • Machine Learning (learning)
+```
+
+---
+
+## 🎯 Current Focus
+
+```diff
++ Building full-stack applications with Spring Boot and modern web technologies
++ Exploring cybersecurity fundamentals and secure development practices
++ Learning Data Structures & Algorithms and Machine Learning
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on projects, discussing technology, or connecting with fellow developers.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-fareen-527032296)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amnaaah)
+
+</div>
+
+<div align="center">
+  
+📫 **Feel free to reach out or explore my repositories!**
+
+---
+
+⭐️ From [Amna Fareen](https://github.com/Amnaaah)
+
+</div>
