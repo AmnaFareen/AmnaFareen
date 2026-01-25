@@ -15,28 +15,12 @@
  Passionate about building **technology that feels simple, meaningful, and genuinely helpful**  
  Current focus: **Full-Stack Development** & exploring **Cybersecurity**  
  I host **creative workshops** – time away from screen and closer to life.
- Fun fact: When I start a project, **I'm fully immersed until completion**
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  "Creating experiences that resonate - not just functional    ║
-║   code, but solutions that connect with people."              ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
 
 <div align="center">
 
 ## 💻 Tech Stack & Skills
 
 </div>
-
-### 🎨 **Languages**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -47,26 +31,17 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
-
-### 🚀 **Backend Development**
-
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
-
-### 🎨 **Frontend Development**
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
-
-### 🛠️ **Tools & Technologies**
-
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -75,9 +50,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
 </p>
-
-### 🧠 **Core Competencies**
-
 <p align="center">
   <img src="https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logo=&logoColor=white" alt="OOP"/>
   <img src="https://img.shields.io/badge/Problem_Solving-4ECDC4?style=for-the-badge&logo=&logoColor=white" alt="Problem Solving"/>
@@ -89,9 +61,6 @@
 <div align="center">
 
 ## 📊 GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amnaaah&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=FFB86C&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amnaaah&theme=radical&hide_border=true&background=0D1117&stroke=A277FF&ring=FFB86C&fire=FF6E96&currStreakLabel=A277FF" alt="GitHub Streak"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amnaaah&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFFFFF" alt="Top Languages"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amnaaah&theme=react-dark&hide_border=true&bg_color=0D1117&color=A277FF&line=FFB86C&point=FF6E96" alt="Activity Graph"/>
@@ -116,36 +85,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amnaaah/Amnaaah/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amnaaah/Amnaaah/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amnaaah/Amnaaah/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-**💌 Open to collaborations • Let's build something amazing together!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72" alt="Footer"/>
-
-</div>
