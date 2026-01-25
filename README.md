@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Amna+Fareen+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;Full-Stack+Developer+%E2%9C%A8;Future+Tech+Entrepreneur+%F0%9F%9A%80" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amnaaah&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Amna+Fareen+%F0%9F%91%8B;" alt="Typing SVG" />
 
 </div>
 
@@ -12,19 +8,14 @@
 
 <div align="center">
   
-## 🌸 About Me
+## About Me
 
 </div>
 
-```diff
-@@ I'm a second-year Software Engineering student at Coventry University @@
-```
-
-💫 Passionate about building **technology that feels simple, meaningful, and genuinely helpful**  
-🔐 Current focus: **Full-Stack Development** & exploring **Cybersecurity**  
-🎯 Long-term vision: **Creating my own tech company**  
-🎨 I host **creative workshops** – blending communication skills with creativity  
-⚡ Fun fact: When I start a project, **I'm fully immersed until completion**
+ Passionate about building **technology that feels simple, meaningful, and genuinely helpful**  
+ Current focus: **Full-Stack Development** & exploring **Cybersecurity**  
+ I host **creative workshops** – time away from screen and closer to life.
+ Fun fact: When I start a project, **I'm fully immersed until completion**
 
 <div align="center">
 
@@ -63,7 +54,6 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
 </p>
 
 ### 🎨 **Frontend Development**
@@ -92,8 +82,6 @@
   <img src="https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logo=&logoColor=white" alt="OOP"/>
   <img src="https://img.shields.io/badge/Problem_Solving-4ECDC4?style=for-the-badge&logo=&logoColor=white" alt="Problem Solving"/>
   <img src="https://img.shields.io/badge/Debugging-95E1D3?style=for-the-badge&logo=&logoColor=black" alt="Debugging"/>
-  <img src="https://img.shields.io/badge/DSA-FFA07A?style=for-the-badge&logo=&logoColor=white" alt="DSA"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF69B4?style=for-the-badge&logo=&logoColor=white" alt="ML"/>
 </p>
 
 ---
@@ -110,67 +98,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 🎯 Current Focus
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Learning Path
-
-```yaml
-currently_learning:
-  - Data Structures & Algorithms
-  - Machine Learning Fundamentals
-  - Flutter Mobile Development
-  - Cybersecurity Essentials
-  
-building:
-  - Full-stack Spring Boot applications
-  - RESTful API architectures
-  - Mobile apps with Flutter
-  
-exploring:
-  - Secure development practices
-  - UI/UX design principles
-  - Cloud technologies
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 Goals 2026
-
-- [x] 🎓 Excel in Software Engineering
-- [ ] 🏆 Build 5+ full-stack projects
-- [ ] 📱 Launch mobile app
-- [ ] 🔐 Complete cybersecurity course
-- [ ] 🚀 Start tech startup journey
-- [ ] 🤝 Contribute to open source
-- [ ] ✍️ Write technical blog posts
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🏆 Achievements & Highlights
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amnaaah&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 <div align="center">
 
 ## 🌐 Connect With Me
@@ -182,7 +109,7 @@ exploring:
   <a href="https://github.com/Amnaaah">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="amnafareen77@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -220,7 +147,5 @@ exploring:
 **💌 Open to collaborations • Let's build something amazing together!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72" alt="Footer"/>
-
-<sub>⭐️ From [Amna Fareen](https://github.com/Amnaaah) with 💜</sub>
 
 </div>
