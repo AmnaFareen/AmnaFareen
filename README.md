@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Amna+Fareen+%F0%9F%91%8B;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Amna+Fareen;" alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## 💻 Tech Stack & Skills
+## Tech Stack & Skills
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amnaaah&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFFFFF" alt="Top Languages"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amnaaah&theme=react-dark&hide_border=true&bg_color=0D1117&color=A277FF&line=FFB86C&point=FF6E96" alt="Activity Graph"/>
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/amna-fareen-527032296">
