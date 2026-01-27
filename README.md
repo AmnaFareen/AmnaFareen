@@ -14,7 +14,7 @@
 
  Passionate about building **technology that feels simple, meaningful, and genuinely helpful**  
  Current focus: **Full-Stack Development** & exploring **Cybersecurity**  
- I host **creative workshops** – time away from screen and closer to life.
+ I host **creative workshops** – to spend time away from screen and closer to life.
 
 <div align="center">
 
