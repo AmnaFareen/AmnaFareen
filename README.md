@@ -13,7 +13,7 @@
 </div>
 
  Passionate about building **technology that feels simple, meaningful, and genuinely helpful**  
- Current focus: **Full-Stack Development** & exploring **Cybersecurity**  
+ Current focus: **Full-Stack Development** & exploring ****  
  I host **creative workshops** – to spend time away from screen and closer to life.
 
 <div align="center">
