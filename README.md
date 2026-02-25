@@ -62,13 +62,8 @@
   <img src="https://img.shields.io/badge/Debugging-95E1D3?style=for-the-badge&logo=&logoColor=black" alt="Debugging"/>
 </p>
 
----
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amnaaah&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFFFFF" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amnaaah&theme=react-dark&hide_border=true&bg_color=0D1117&color=A277FF&line=FFB86C&point=FF6E96" alt="Activity Graph"/>
-
-</div>
 
 <div align="center">
 
