@@ -76,8 +76,12 @@
   <a href="https://github.com/Amnaaah">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="amnafareen77@gmail.com">
+  <a href="amnaaah.far@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+   <a href="https://github.com/AmnaFareen/Amna-Portfolio">
+     <img src="https://img.shields.io/badge/Portfolio-beige" alt="Portfolio">
+
   </a>
 </p>
 
